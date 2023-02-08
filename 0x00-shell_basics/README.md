@@ -9,3 +9,4 @@
 8. Delete the file we just moved
 9. Delete the directory in tmp
 10. Change working directory to the previous one
+11. List all files in current, previous and boot directories
