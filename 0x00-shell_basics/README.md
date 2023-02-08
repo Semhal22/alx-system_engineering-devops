@@ -1,1 +1,2 @@
 0. Prints absolute path of the current working directory
+1. Displays contents of current directory
