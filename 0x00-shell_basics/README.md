@@ -7,3 +7,4 @@
 6. Create a directory in /tmp
 7. Move a file to the created directory
 8. Delete the file we just moved
+9. Delete the directory in tmp
