@@ -2,3 +2,4 @@
 1. Displays contents of current directory
 2.Changes working directory to users home directory
 3. List files in long format
+4. List hidden files in long format
