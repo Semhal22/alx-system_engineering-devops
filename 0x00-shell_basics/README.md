@@ -12,3 +12,4 @@
 11. List all files in current, previous and boot directories
 12. File type
 13. Create a symbol link
+14. Copy html files
