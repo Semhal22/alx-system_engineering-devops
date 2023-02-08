@@ -8,3 +8,4 @@
 7. Move a file to the created directory
 8. Delete the file we just moved
 9. Delete the directory in tmp
+10. Change working directory to the previous one
