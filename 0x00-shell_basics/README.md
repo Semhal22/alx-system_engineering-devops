@@ -11,3 +11,4 @@
 10. Change working directory to the previous one
 11. List all files in current, previous and boot directories
 12. File type
+13. Create a symbol link
