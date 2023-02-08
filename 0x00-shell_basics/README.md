@@ -13,3 +13,4 @@
 12. File type
 13. Create a symbol link
 14. Copy html files
+15. Move files starting with upper case
