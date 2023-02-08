@@ -4,3 +4,4 @@
 3. List files in long format
 4. List hidden files in long format
 5. List user and group ids numerically
+6. Create a directory in /tmp
