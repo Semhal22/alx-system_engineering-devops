@@ -8,3 +8,4 @@
 8. Add all permission to others
 9. Set permissions
 10. Set mode of file in reference to another file
+Add execute permission to all subdirectories
