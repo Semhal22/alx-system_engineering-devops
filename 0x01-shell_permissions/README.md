@@ -13,3 +13,4 @@ Add execute permission to all subdirectories
 13. Change group owner
 14. Change user and group owner
 Change ownership for symbolic link
+16. Change owner if current owner is the specified one
