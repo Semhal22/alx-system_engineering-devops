@@ -5,3 +5,4 @@
 5. Add permission to hello file
 6. Adding multiple permissions
 7. Add permissions to all users
+8. Add all permission to others
