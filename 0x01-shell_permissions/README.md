@@ -14,3 +14,4 @@ Add execute permission to all subdirectories
 14. Change user and group owner
 Change ownership for symbolic link
 16. Change owner if current owner is the specified one
+17. Play a video within the terminal
