@@ -7,3 +7,4 @@
 7. Add permissions to all users
 8. Add all permission to others
 9. Set permissions
+10. Set mode of file in reference to another file
