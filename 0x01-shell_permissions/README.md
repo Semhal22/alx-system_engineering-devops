@@ -9,3 +9,4 @@
 9. Set permissions
 10. Set mode of file in reference to another file
 Add execute permission to all subdirectories
+12. Make directory with permissions
