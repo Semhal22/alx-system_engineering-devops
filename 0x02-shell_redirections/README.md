@@ -14,3 +14,4 @@
 13. Makes lines unique
 14. Display lines containing the string root
 15. Count number of lines containing the word bin
+16. Add 3 lines after the selected lines
