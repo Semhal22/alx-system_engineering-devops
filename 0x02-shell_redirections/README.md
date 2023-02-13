@@ -20,3 +20,4 @@
 19. Replace characters A and c
 20. Delete characters
 21. Reverse input
+22. Display all users
