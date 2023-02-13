@@ -8,4 +8,4 @@
 7. Create a file
 8. Writes output of a command to a file
 9. Duplicate last line
-10. Delete all non-js files
+10. Delete all js files
