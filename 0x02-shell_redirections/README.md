@@ -19,3 +19,4 @@
 18. Display lines starting with letters
 19. Replace characters A and c
 20. Delete characters
+21. Reverse input
