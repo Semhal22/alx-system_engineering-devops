@@ -17,3 +17,4 @@
 16. Add 3 lines after the selected lines
 17. Display lines that don't contain bin
 18. Display lines starting with letters
+19. Replace characters A and c
