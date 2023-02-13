@@ -10,3 +10,4 @@
 9. Duplicate last line
 10. Delete all js files
 11. Counts number of directories and subdirectories
+12. Display ten newest files
