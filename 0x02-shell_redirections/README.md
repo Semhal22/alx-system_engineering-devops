@@ -7,3 +7,4 @@
 6. Display the third line
 7. Create a file
 8. Writes output of a command to a file
+9. Duplicate last line
