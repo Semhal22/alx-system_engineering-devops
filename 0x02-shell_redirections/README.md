@@ -15,3 +15,4 @@
 14. Display lines containing the string root
 15. Count number of lines containing the word bin
 16. Add 3 lines after the selected lines
+17. Display lines that don't contain bin
