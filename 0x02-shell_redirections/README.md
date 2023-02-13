@@ -13,3 +13,4 @@
 12. Display ten newest files
 13. Makes lines unique
 14. Display lines containing the string root
+15. Count number of lines containing the word bin
