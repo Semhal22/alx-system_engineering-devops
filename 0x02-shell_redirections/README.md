@@ -5,3 +5,5 @@
 4. Display last ten lines
 5. Display first 10 lines
 6. Display the third line
+7. Create a file
+8. Writes output of a command to a file
