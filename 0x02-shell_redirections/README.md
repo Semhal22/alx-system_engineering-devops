@@ -12,3 +12,4 @@
 11. Counts number of directories and subdirectories
 12. Display ten newest files
 13. Makes lines unique
+14. Display lines containing the string root
