@@ -5,3 +5,4 @@
 4. List environmental variables
 5. Lists all local and global variables
 6. Create a local variable
+7. Create a global variable
