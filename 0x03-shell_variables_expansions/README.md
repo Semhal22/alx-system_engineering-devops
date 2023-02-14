@@ -11,3 +11,4 @@
 10. Performs exponential operation
 11. Convert base 2 to base 10
 12. Prints all possible combinations of two letters
+13. Print a number with 2 decimal places
