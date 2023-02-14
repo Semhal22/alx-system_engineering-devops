@@ -7,3 +7,4 @@
 6. Create a local variable
 7. Create a global variable
 8. Perform arithmetic operation
+9. Prints results of division of two environment variables
