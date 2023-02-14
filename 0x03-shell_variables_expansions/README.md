@@ -14,3 +14,5 @@
 13. Print a number with 2 decimal places
 14. Convert from decimal to hexadecimal
 15. A program that decodes and encodes with rot13 encryption
+16. Prints every other line from input
+17. Adds two number stored in the environment variables
