@@ -9,3 +9,4 @@
 8. Perform arithmetic operation
 9. Prints results of division of two environment variables
 10. Performs exponential operation
+11. Convert base 2 to base 10
