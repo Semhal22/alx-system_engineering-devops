@@ -2,3 +2,4 @@
 1. Print hello user
 2. Add action to the PATH variable
 3. Counts the number of directories in the PATH
+4. List environmental variables
