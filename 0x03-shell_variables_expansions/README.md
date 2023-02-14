@@ -12,3 +12,4 @@
 11. Convert base 2 to base 10
 12. Prints all possible combinations of two letters
 13. Print a number with 2 decimal places
+14. Convert from decimal to hexadecimal
