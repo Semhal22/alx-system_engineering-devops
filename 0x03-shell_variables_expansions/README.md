@@ -8,3 +8,4 @@
 7. Create a global variable
 8. Perform arithmetic operation
 9. Prints results of division of two environment variables
+10. Performs exponential operation
