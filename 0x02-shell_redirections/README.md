@@ -22,3 +22,4 @@
 21. Reverse input
 22. Display all users
 Find all empty files and directories
+24. List all files with .gif extension
