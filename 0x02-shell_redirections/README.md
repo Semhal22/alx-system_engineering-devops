@@ -21,3 +21,4 @@
 20. Delete characters
 21. Reverse input
 22. Display all users
+Find all empty files and directories
