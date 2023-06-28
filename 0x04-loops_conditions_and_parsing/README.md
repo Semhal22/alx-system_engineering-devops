@@ -3,4 +3,5 @@
 statements, comparsion operators</p>
 <ul>
 <li>0. Create a SSH RSA key pair</li>
+<li>1. For Best School loop</li>
 </ul>
