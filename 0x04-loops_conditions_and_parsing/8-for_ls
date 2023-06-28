@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
 # Displays the contents of the current directory
-list=" $(ls .)"
+list="$(ls .)"
 for i in $list
 do
-	if [[ "$i" == *-* ]]; then
+	if [[ "$i" == *-* ]]
+	then
 		echo "$i" | cut -d- -f2
 	fi
 done
