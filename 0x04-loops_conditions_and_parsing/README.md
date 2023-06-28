@@ -6,4 +6,5 @@ statements, comparsion operators</p>
 <li>1. For Best School loop</li>
 <li>2. While Best School loop</li>
 <li>3. Until Best School loop</li>
+<li>4. If 9, say Hi!</li>
 </ul>
