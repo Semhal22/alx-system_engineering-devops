@@ -7,4 +7,5 @@ statements, comparsion operators</p>
 <li>2. While Best School loop</li>
 <li>3. Until Best School loop</li>
 <li>4. If 9, say Hi!</li>
+<li>5. 4 bad luck, 8 is your chance</li>
 </ul>
