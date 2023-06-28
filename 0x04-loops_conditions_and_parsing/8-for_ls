@@ -4,6 +4,6 @@ for i in *
 do
 	if [[ "$i" == *-* ]]
 	then
-		echo "$i" | cut -d- -f2
+		echo "$i" | cut -d- -f2-
 	fi
 done
