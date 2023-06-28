@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# This script sorts the data after parsing Apache log file
+awk -F " " '{count[$1,$9]++} END {for (c in count) print count[c], c}' apache-access.log | sort -k1 -n -r
