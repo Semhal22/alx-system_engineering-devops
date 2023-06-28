@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 # Displays the contents of the current directory
-list="$(ls .)"
-for i in $list
+for i in *
 do
 	if [[ "$i" == *-* ]]
 	then
