@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+# FizzBuzz(displays numbers from 1 to 100, but when number is multiple of
+# 3 and 5, it displays FizzBuzz, diplays Fizz when number is multiple of
+# 3 and displys Buzz when number is a multiple of 5
+n=1
+while [ $n -le 100 ]
+do
+	if [ $((n % 3)) -eq 0 ] && [ $((n % 5)) -eq 0 ]
+	then
+		echo "FizzBuzz"
+	elif [ $((n % 3)) -eq 0 ]
+	then
+		echo "Fizz"
+	elif [ $((n % 5)) -eq 0 ]
+	then
+		echo "Buzz"
+	else
+		echo "$n"
+	fi
+
+	n=$((n + 1))
+done

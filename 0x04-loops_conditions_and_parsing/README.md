@@ -12,4 +12,5 @@ statements, comparsion operators</p>
 <li>7. Clock</li>
 <li>8. For ls</li>
 <li>9. To file, or not to file</li>
+<li>10. FizzBuzz</li>
 </ul>
