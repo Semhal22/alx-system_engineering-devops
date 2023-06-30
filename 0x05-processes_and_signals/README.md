@@ -3,4 +3,5 @@
 <ul>
 <li>0. What is my PID</li>
 <li>1. List your processes</li>
+<li>2. Show your Bash PID</li>
 </ul>
