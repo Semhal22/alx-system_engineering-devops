@@ -4,4 +4,8 @@
 <li>0. What is my PID</li>
 <li>1. List your processes</li>
 <li>2. Show your Bash PID</li>
+<li>3. Show your Bash PID made easy</li>
+<li>4. To infinity and beyond</li>
+<li>5. Don't stop me now!</li>
+<li>6. Stop me if you can</li>
 </ul>
