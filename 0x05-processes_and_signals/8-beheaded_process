@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Stop a process using kill
+PID=$(pgrep -f ./7-highlander)
+if [ -n "$PID" ]
+then
+	kill -s 9 "$PID"
+fi
