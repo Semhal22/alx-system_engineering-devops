@@ -9,4 +9,5 @@ a library that is used by Ruby by default</p>
 <li>4. Repetition Token #3</li>
 <li>5. Not quite HBTN yet</li>
 <li>6. Call me maybe</li>
+<li>7. OMG WHY ARE YOU SHOUTING?</li>
 </ul>
