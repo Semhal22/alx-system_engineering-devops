@@ -3,4 +3,5 @@
 a library that is used by Ruby by default</p>
 <ul>
 <li>0. Simply matching School</li>
+<li>1. Repetition Token #0</li>
 </ul>
