@@ -1,5 +1,5 @@
 # Configure file so that it can connect to a server without password
-file { '/home/ubuntu/.ssh/config':
+file { '/etc/ssh/ssh_config':
   ensure  => file,
-  content => 'IdentityFile ~/.ssh/school\nPasswordAuthentication no',
+  content => 'IdentityFile ~/.ssh/school  PasswordAuthentication no',
 }
