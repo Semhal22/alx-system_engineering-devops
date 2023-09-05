@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#redirect to another page
+sudo apt-get update
+sudo apt-get install -y nginx
+sudo cp /etc/nginx/sites-available/default /etc/nginx/sites-available/default.bak
+sudo sed -i '/listen 80 default_server;/a\\tdefault_type text/plain;' /etc/nginx/sites-available/default
+sudo sed -i '/location / {/a\location /redirect_me {\n return 301 https://www.youtube.com/watch?v=QH2-TGUlwu4}' /etc/nginx/sites-available/default
+sudo service nginx restart
