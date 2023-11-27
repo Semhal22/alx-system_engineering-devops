@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# stops another process
+# stops another process by first identifying the PID, then using kill
 PID=$(pgrep -f ./4-to_infinity_and_beyond)
 if [ -n "$PID" ];
 then
