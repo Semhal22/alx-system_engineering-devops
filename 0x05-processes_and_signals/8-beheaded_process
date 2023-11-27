@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# stops another process using pkill with -f option to match the process name
+# Sends a SIGKILL signal which forces termination
+pkill -SIGKILL -f "./7-highlander"
