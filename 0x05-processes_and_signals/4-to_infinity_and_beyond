@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
-# Displays a text infinitely until interuppted by a signal
-trap "echo '' && exit" SIGINT
-while true
+# Displays a text indefinitely
+while :
 do
 	echo "To infinity and beyond"
 	sleep 2

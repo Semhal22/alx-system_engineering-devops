@@ -1,7 +1,4 @@
 #!/usr/bin/env bash
-# Stop a process using kill
-PID=$(pgrep -f ./7-highlander)
-if [ -n "$PID" ]
-then
-	kill -s 9 "$PID"
-fi
+# stops another process using pkill with -f option to match the process name
+# Sends a SIGKILL signal which forces termination
+pkill -SIGKILL -f "./7-highlander"
