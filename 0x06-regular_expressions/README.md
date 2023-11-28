@@ -6,3 +6,4 @@
 * 3. Repetition Token #2 - using +(match once or more of the specified)
 * 4. Repetition Token #3 - using *(match zero or more of specified)
 * 5. Begins and ends in a letter and have any single character in between
+* 6. Match a 10 digit phone number
