@@ -1,3 +1,5 @@
 # 0x0B. SSH
-## This project contains basic tasks related to using ssh to connect with servers
-* 0. Use a private key
+### The most common way of connecting to a remote Linux server is through SSH. SSH stands for Secure Shell and provides a safe and secure way of executing commands, making changes, and configuring services remotely.
+0. Use a private key
+	* Bash script that uses ssh to connect to 281593-web-01
+	* Uses private key with user ubuntu
