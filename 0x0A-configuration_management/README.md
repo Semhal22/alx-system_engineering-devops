@@ -22,3 +22,8 @@ $ gem install puppet-lint`
 1. Install a package
 	* Install flask
 	* Version must be 2.1.0
+
+2. Execute a command
+	* Create a manifest that kills a process named killme now
+	* Must use the exec Puppet resource
+	* Must use pkill
