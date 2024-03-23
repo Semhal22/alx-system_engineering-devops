@@ -3,3 +3,7 @@
 0. Use a private key
 	* Bash script that uses ssh to connect to 281593-web-01
 	* Uses private key with user ubuntu
+1. Create an SSH key pair
+	* Name of the private key must be school
+	* Number of bits in the created key to be created 4096
+	* Passphrase should be betty
