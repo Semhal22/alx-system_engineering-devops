@@ -10,3 +10,5 @@
 2. Client configuration file
 	* Configure SSH configuration file so as to connect to a server without typing a password
 	* Refuse authentication using a password
+4. Client configuration file (w/ Puppet)
+	* Using puppet to perform the above task
