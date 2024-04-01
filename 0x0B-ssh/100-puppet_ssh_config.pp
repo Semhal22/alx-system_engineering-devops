@@ -1,5 +1,5 @@
 # SSH client configuration must use private key and no password authentication
-file {'/home/ubuntu/.ssh/config':
+file {'/etc/ssh/ssh_config':
     ensure  => 'file',
-    content => 'Identityfile ~/.ssh/school\nPasswordAuthentication no',
+    content => 'Identityfile ~/.ssh/school \n PasswordAuthentication no',
 }
