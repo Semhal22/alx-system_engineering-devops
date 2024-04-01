@@ -7,3 +7,6 @@
 	* Name of the private key must be school
 	* Number of bits in the created key to be created 4096
 	* Passphrase should be betty
+2. Client configuration file
+	* Configure SSH configuration file so as to connect to a server without typing a password
+	* Refuse authentication using a password

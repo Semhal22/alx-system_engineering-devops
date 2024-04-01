@@ -1,0 +1,5 @@
+Host *
+    User ubuntu
+    IdentityFile ~/.ssh/school
+    IdentitiesOnly yes
+    PasswordAuthentication no
