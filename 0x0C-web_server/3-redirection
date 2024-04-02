@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+# Configure nginx so that /redirect_me is redirecting to another page
+apt-get -y update
+apt-get -y install nginx
+bash -c "echo 'Hello World!' > /var/www/html/index.html"
+#!/usr/bin/env bash
+# Configure nginx so that /redirect_me is redirecting to another page
+apt-get -y update
+apt-get -y install nginx
+echo 'Hello World!' > /var/www/html/index.html
+
+cat <<EOF > /etc/nginx/sites-enabled/default
+server {
+        listen 80 default_server;
+        listen [::]:80 default_server;
+        root /var/www/html;
+
+        server_name _;
+
+        location /redirect_me {
+                return 301 https://www.youtube.com/watch?v=QH2-TGUlwu4;
+        }
+}
+EOF
+service nginx restart

@@ -7,3 +7,6 @@
     * Nginx should be listening on port 80
     * When querying Nginx at its root / with a GET request (requesting a page) using curl, it must return a page that contains the string Hello World!
 2. Setup a domain name
+3. Redirection
+    * Configure nginx so that /redirect_me is redirecting to another page
+    * The redirection must be a “301 Moved Permanently”
