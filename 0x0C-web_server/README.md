@@ -3,3 +3,6 @@
 - This project includes tasks to configure an Ubuntu machine with some requirements
 0. Transfer a file to your server
     * Transfers a file from our client to a server
+1. Install nginx web server
+    * Nginx should be listening on port 80
+    * When querying Nginx at its root / with a GET request (requesting a page) using curl, it must return a page that contains the string Hello World! 
