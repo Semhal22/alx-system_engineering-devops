@@ -10,3 +10,5 @@
 3. Redirection
     * Configure nginx so that /redirect_me is redirecting to another page
     * The redirection must be a “301 Moved Permanently”
+4. Not found page 404
+    * Configure nginx to have a custom 404 page
