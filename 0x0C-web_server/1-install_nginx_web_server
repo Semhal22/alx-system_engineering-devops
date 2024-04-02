@@ -2,4 +2,4 @@
 # Install nginx on server which listens on port 80
 apt-get -y update
 apt-get -y install nginx
-echo "Hello World!" > /var/www/html/index.html
+echo "<html><body>Hello World</body></html>" > /var/www/html/index.html
