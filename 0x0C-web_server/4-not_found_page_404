@@ -3,7 +3,7 @@
 apt-get -y update
 apt-get -y install nginx
 bash -c "echo 'Hello World!' > /var/www/html/index.html"
-bash -c "echo \"Ceci n'est pas une page\" > /var/www/html/404.html"
+bash -c "echo 'Ceci n'\''est pas une page' > /var/www/html/404.html"
 cat <<EOF > /etc/nginx/sites-enabled/default
 server {
         listen 80 default_server;
