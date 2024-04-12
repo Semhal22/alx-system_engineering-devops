@@ -1,6 +1,3 @@
 #!/usr/bin/env bash
-# Install nginx on container
-apt-get -y update
-apt-get -y install nginx
-bash -c "echo 'Hello Holberton' > /var/www/html/index.html"
-service nginx restart
+# Start apache2 on container
+service apache2 start
