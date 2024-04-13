@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Install nginx on server which listens on port 80
-apt-get -y update
-apt-get -y install nginx
-service nginx restart
+# Ngnix must listen on port 80 of all the server's active IPV4 IPS
+rm /etc/nginx/sites-enabled/default
+ln -s /etc/nginx/sites-avaliable/default /etc/nginx/sites-enabled/default
+service nginx reload
