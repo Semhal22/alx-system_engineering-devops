@@ -1,7 +1,7 @@
 #!/usr/bin/python3
+"""Return information about an employee's TODO list given their id"""
 import requests
 import sys
-"""Return information about an employee's TODO list given their id"""
 if __name__ == "__main__":
     completed = 0
     employee_id = sys.argv[1]
