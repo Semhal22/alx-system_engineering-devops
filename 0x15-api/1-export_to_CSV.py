@@ -12,7 +12,7 @@ if __name__ == "__main__":
     user_url = f"https://jsonplaceholder.typicode.com/users/{employee_id}"
     response = requests.get(user_url)
     user = response.json()
-    name = user.get('name')
+    username = user.get('username')
 
     todos_url = f"{user_url}/todos"
     response = requests.get(todos_url)
@@ -25,7 +25,7 @@ if __name__ == "__main__":
     for task in tasks:
         title = task.get('title')
         task_completed = task.get('completed')
-        csv_rows.append([employee_id, name, task_completed, title])
+        csv_rows.append([employee_id, username, task_completed, title])
 
     filename = f"{employee_id}.csv"
     with open(filename, 'w') as csvfile:
